@@ -1,7 +1,6 @@
-Hello World!
+**Hello World!**
 Welcome to my Website.
 
-Check ou my meme
 # _Meme_
 ![Image](my_meme.png)
 
