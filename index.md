@@ -1,4 +1,4 @@
-<span style="color:blue">some *blue* text</span>.
+$\color{#ff5470}{your-text-here}$
 # _Meme_
 ![Image](my_meme.png)
 
