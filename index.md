@@ -5,6 +5,7 @@ Welcome to my Website.
 ![Image](my_meme.png)
 
 **This meme was created due to some courses forcing students to turn on their camera.**
+
 As the presence of Covid19, lectures and tutorials are operating entirely online via Zoom. In some courses, it is mandatory to have cameras enabled.
 This meme is a very close resemblance of most people during the classes (at least for my self).
 
