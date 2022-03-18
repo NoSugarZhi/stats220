@@ -1,6 +1,8 @@
 # Meme
 ![Image](my_meme.png)
 
+This meme was created due to some courses forcing students to turn on their camera.
+
 ```{r}
 library(magick)
 messy_dog <- image_read("https://i.pinimg.com/564x/4c/0f/c9/4c0fc9dfc604e8d958e004eac4e4a3e3.jpg") %>%
