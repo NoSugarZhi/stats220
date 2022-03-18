@@ -1,7 +1,7 @@
-# Meme
+# _Meme_
 ![Image](my_meme.png)
 
-This meme was created due to some courses forcing students to turn on their camera.
+**This meme was created due to some courses forcing students to turn on their camera.**
 
 ```{r}
 library(magick)
