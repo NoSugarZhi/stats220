@@ -1,3 +1,4 @@
+<span style="color:blue">some *blue* text</span>.
 # _Meme_
 ![Image](my_meme.png)
 
