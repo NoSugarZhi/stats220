@@ -4,7 +4,7 @@
 - project for my course stats220 will be published here
 
 
-[Link to my website](https://nosugarzhi.github.io/stats220/)
+Link to my [**Website**](https://nosugarzhi.github.io/stats220/)
 
 You can use the [editor on GitHub](https://github.com/NoSugarZhi/stats220/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
