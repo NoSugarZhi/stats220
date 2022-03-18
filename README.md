@@ -8,4 +8,4 @@ I am a stats220 student.
 
 Link to my [**Website**](https://nosugarzhi.github.io/stats220/).
 
-This README file is intentionally boring.😐
+This README file is also intentionally boring.😐
