@@ -9,4 +9,5 @@ I am a stats220 student.
 Link to my [**Website**](https://nosugarzhi.github.io/stats220/).
 
 
-This README file is also intentionally boring.😐 \n But did you know? July 17 is 📅 [World Emoji Day](https://worldemojiday.com/)
+This README file is also intentionally boring.😐
+- But did you know? July 17 is 📅 [World Emoji Day](https://worldemojiday.com/)
